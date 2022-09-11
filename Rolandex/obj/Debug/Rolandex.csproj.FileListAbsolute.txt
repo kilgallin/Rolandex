@@ -1,0 +1,9 @@
+C:\Users\jdk\Documents\Visual Studio 11\Projects\rolandex\Rolandex\bin\Debug\Midi.dll
+C:\Users\jdk\Documents\Visual Studio 11\Projects\rolandex\Rolandex\obj\Debug\Rolandex.csprojResolveAssemblyReference.cache
+C:\Users\jdk\Documents\Visual Studio 11\Projects\rolandex\Rolandex\obj\Debug\Interop.WMPLib.dll
+C:\Users\jdk\Documents\Visual Studio 11\Projects\rolandex\Rolandex\obj\Debug\Rolandex.csproj.ResolveComReference.cache
+C:\Users\jdk\Documents\Visual Studio 11\Projects\rolandex\Rolandex\bin\Debug\Rolandex.exe.config
+C:\Users\jdk\Documents\Visual Studio 11\Projects\rolandex\Rolandex\bin\Debug\Rolandex.exe
+C:\Users\jdk\Documents\Visual Studio 11\Projects\rolandex\Rolandex\bin\Debug\Rolandex.pdb
+C:\Users\jdk\Documents\Visual Studio 11\Projects\rolandex\Rolandex\obj\Debug\Rolandex.exe
+C:\Users\jdk\Documents\Visual Studio 11\Projects\rolandex\Rolandex\obj\Debug\Rolandex.pdb
